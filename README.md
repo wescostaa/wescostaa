@@ -13,6 +13,4 @@
   <p> Gosto de animes, gatos e jogos </p>
   
 # Atualmente estou estudando
-  <p> HTML5 </p>
-  <p> CSS3 </p>
-  <p> Javascript </p>
+  <p> PHP </p>
